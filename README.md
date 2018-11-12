@@ -1,3 +1,3 @@
 # helloworld
-Hello evryone my name is shubhankar verma...nice to know that you took 
-some time to read this shit!!
+Hello evryone my name is shubhankar verma...i am just a beginner so was just
+checking out git-hub.
